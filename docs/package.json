@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "0.33.0",
     "bootstrap": "^5.2.0",
     "font-awesome": "^4.7.0",
     "github-contributors-list": "^1.2.5",
