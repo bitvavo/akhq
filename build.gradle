@@ -106,12 +106,12 @@ dependencies {
 
     // utils
     implementation group: 'org.codehaus.httpcache4j.uribuilder', name: 'uribuilder', version: '2.0.0'
-    implementation 'com.google.guava:guava:31.1-jre'
+    implementation 'com.google.guava:guava:33.7.2'
     implementation 'com.google.code.gson:gson:2.10'
     implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8'
 
     // avro
-    implementation 'org.apache.avro:avro:1.11.1'
+    implementation 'org.apache.avro:avro:1.11.4'
 
     // jackson-module-scala
     implementation group: 'com.fasterxml.jackson.module', name: 'jackson-module-scala_2.13', version: '2.13.4'
